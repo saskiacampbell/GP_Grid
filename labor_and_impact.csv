@@ -1,0 +1,206 @@
+Date,Field,grid_id,impact type,hours
+4/22/2026,gp3b,15,rotary mow,0.5
+4/22/2026,gp3b,16,rotary mow,0.5
+4/24/2026,gp4a,22,rotary mow,1.125
+4/24/2026,gp4b,23,rotary mow,1.125
+4/28/2026,gp5b,30,rotary mow,0.75
+4/28/2026,gp5b,31,rotary mow,0.75
+4/28/2026,gp6c,37,rotary mow,0.75
+4/28/2026,gp6c,38,rotary mow,0.75
+4/29/2026,gp4c,24,rotary mow,0.5
+4/29/2026,gp7b,44,rotary mow,0.5
+4/29/2026,gp7b,44,small machinery mow,0.5
+5/1/2026,gp7a,40,rotary mow,0.75
+5/1/2026,gp7a,41,rotary mow,0.75
+5/1/2026,gp3b,16,small machinery mow,0.625
+5/1/2026,gp3b,19,small machinery mow,0.625
+5/1/2026,gp3a,14,small machinery mow,0.625
+5/1/2026,gp3s,20,small machinery mow,0.625
+5/1/2026,gp3b,16,hand work,1.25
+5/1/2026,gp3b,19,hand work,1.25
+5/4/2026,gp6a,32,rotary mow,0.5
+5/4/2026,gp6a,34,rotary mow,0.5
+5/4/2026,gp6a,35,rotary mow,0.5
+5/8/2026,gp5a,26,rotary mow,0.5
+5/14/2026,gp5a,27,rotary mow,0.5
+5/26/2026,gp5a,28,rotary mow,0.5
+5/26/2026,gp5a,29,rotary mow,0.5
+5/28/2026,gp6c,37,rotary mow,1
+5/28/2026,gp6c,38,rotary mow,1
+5/28/2026,gp8c,46,rotary mow,1.25
+5/29/2026,gp8a,49,rotary mow,0.75
+6/4/2026,gp8a,49,rotary mow,0.33
+6/15/2026,gp7a,40,rotary mow,1
+6/15/2026,gp7a,41,rotary mow,0.5
+6/15/2026,gp8a,49,rotary mow,1
+6/17/2026,gp3b,16,small machinery mow,0.75
+6/17/2026,gp3b,19,small machinery mow,0.75
+6/18/2026,gp3b,18,rotary mow,1
+6/18/2026,gp3b,19,rotary mow,1
+6/18/2026,gp5a,26,rotary mow,1.5
+6/24/2026,gp1b,3,rotary mow,0.75
+6/24/2026,gp2a,7,rotary mow,1.25
+6/24/2026,gp2a,8,rotary mow,1.25
+6/30/2026,gp2b,10,rotary mow,1
+6/30/2026,gp2b,11,rotary mow,1
+6/30/2026,gp2b,12,rotary mow,1
+7/2/2026,gp2b,11,small machinery mow,2.66
+7/2/2026,gp2b,12,small machinery mow,0.33
+7/8/2026,gp3s,20,rotary mow,1.5
+7/8/2026,gp3s,21,rotary mow,1.5
+7/10/2026,gp5a,27,small machinery mow,2
+7/28/2026,gp6a,32,rotary mow,0.5
+7/28/2026,gp6a,33,rotary mow,0.5
+7/28/2026,gp6a,34,rotary mow,0.5
+7/28/2026,gp6a,35,rotary mow,0.5
+8/7/2026,gp1a,1,rotary mow,0.91
+8/7/2026,gp1a,2,rotary mow,0.91
+8/7/2026,gp1a,3,rotary mow,0.91
+8/10/2026,gp4a,22,rotary mow,1
+8/4/2026,gp5a,26,rotary mow,0.75
+8/4/2026,gp5a,28,rotary mow,0.75
+8/13/2026,gp4b,23,rotary mow,2
+9/15/2026,gp1a,1,rotary mow,0.4
+9/15/2026,gp1a,2,rotary mow,0.4
+9/15/2026,gp1a,3,rotary mow,0.4
+9/15/2026,gp2a,7,rotary mow,0.4
+9/15/2026,gp2a,8,rotary mow,0.4
+9/25/2026,gp7b,42,rotary mow,1.33
+9/25/2026,gp7b,43,rotary mow,1.33
+9/25/2026,gp7b,44,rotary mow,1.33
+10/5/2026,gp6a,32,rotary mow,1
+10/5/2026,gp6a,33,rotary mow,1
+10/5/2026,gp6a,34,rotary mow,1
+10/5/2026,gp6a,35,rotary mow,1
+11/3/2026,Plains,n/a,graze,n/a
+11/1/2026,GP1B,4,graze,n/a
+11/1/2026,gp1b,5,graze,n/a
+11/1/2026,gp1b,6,graze,n/a
+10/30/2026,GP2A,8,graze,n/a
+10/30/2026,gp2a,7,graze,n/a
+10/27/2026,GP2B,12,graze,n/a
+10/27/2026,gp2b,11,graze,n/a
+10/27/2026,gp2b,10,graze,n/a
+10/24/2026,GP3B,15,graze,n/a
+10/24/2026,gp3b,16,graze,n/a
+10/24/2026,gp3b,18,graze,n/a
+10/24/2026,gp3b,19,graze,n/a
+10/21/2026,GP3A,14,graze,n/a
+10/21/2026,gp3a,17,graze,n/a
+10/19/2026,GP3South,20,graze,n/a
+10/19/2026,gp3s,21,graze,n/a
+10/17/2026,GP4C,24,graze,n/a
+10/15/2026,GP4B,23,graze,n/a
+10/13/2026,GP4A,22,graze,n/a
+10/9/2026,GP5A,26,graze,n/a
+10/9/2026,gp5a,27,graze,n/a
+10/9/2026,gp5a,28,graze,n/a
+10/9/2026,gp5a,29,graze,n/a
+10/7/2026,GP5B,30,graze,n/a
+10/7/2026,gp5b,31,graze,n/a
+10/5/2026,GP6C,36,graze,n/a
+10/1/2026,GP6A,35,graze,n/a
+10/1/2026,gp6a,34,graze,n/a
+10/1/2026,gp6a,33,graze,n/a
+10/1/2026,gp6a,32,graze,n/a
+9/29/2026,GP8C,47,graze,n/a
+9/29/2026,gp8c,46,graze,n/a
+9/26/2026,GP8B,48,graze,n/a
+9/26/2026,gp8b,49,graze,n/a
+9/24/2026,GP8A,49,graze,n/a
+9/22/2026,GP7B,41,graze,n/a
+9/21/2026,GP7A,2,graze,n/a
+9/21/2026,gp7a,40,graze,n/a
+9/18/2026,GP Woods,n/a,graze,n/a
+9/16/2026,Briar,n/a,graze,n/a
+9/13/2026,GP1A,3,graze,n/a
+9/13/2026,gp1a,2,graze,n/a
+9/13/2026,gp1a,1,graze,n/a
+9/11/2026,GP1B,4,graze,n/a
+9/11/2026,gp1b,5,graze,n/a
+9/11/2026,gp1b,6,graze,n/a
+9/9/2026,GP2A,7,graze,n/a
+9/9/2026,gp2a,8,graze,n/a
+9/4/2026,GP2B,10,graze,n/a
+9/4/2026,gp2b,11,graze,n/a
+9/4/2026,gp2b,12,graze,n/a
+9/2/2026,gp3s,20,graze,n/a
+9/2/2026,gp3s,21,graze,n/a
+8/28/2026,GP3B,15,graze,n/a
+8/28/2026,gp3b,16,graze,n/a
+9/28/2026,gp3b,19,graze,n/a
+9/28/2026,gp3b,18,graze,n/a
+8/26/2026,GP3North,13,graze,n/a
+8/24/2026,GP3A,14,graze,n/a
+9/24/2026,gp3a,17,graze,n/a
+8/18/2026,GP4C,24,graze,n/a
+8/11/2026,GP4B,23,graze,n/a
+8/7/2026,GP4A,22,graze,n/a
+8/4/2026,GP1A,1,graze,n/a
+7/27/2026,GP5A,26,graze,n/a
+7/27/2026,gp5a,27,graze,n/a
+7/27/2026,gp5a,28,graze,n/a
+7/27/2026,gp5a,29,graze,n/a
+7/26/2026,GP6B,36,graze,n/a
+7/23/2026,GP6A,34,graze,n/a
+7/23/2026,gp6a,33,graze,n/a
+7/23/2026,gp6a,32,graze,n/a
+7/23/2026,gp6a,31,graze,n/a
+7/23/2026,gp7a,41,graze,n/a
+7/22/2026,GP7A,40,graze,n/a
+7/19/2026,GP8A,49,graze,n/a
+7/15/2026,GP7B,42,graze,n/a
+7/15/2026,gp7b,43,graze,n/a
+7/15/2026,gp7b,44,graze,n/a
+7/10/2026,GP6C,39,graze,n/a
+7/7/2026,GP5B,31,graze,n/a
+7/1/2026,gp3s,21,graze,n/a
+7/1/2026,gp3s,20,graze,n/a
+7/1/2026,gp3s,19,graze,n/a
+6/24/2026,gp2b,10,graze,n/a
+6/24/2026,gp2b,11,graze,n/a
+6/24/2026,GP2B,12,graze,n/a
+6/20/2026,GP2A,8,graze,n/a
+6/20/2026,gp2a,7,graze,n/a
+6/19/2026,GP1B,6,graze,n/a
+6/16/2026,GP1A,1,graze,n/a
+6/16/2026,gp1a,2,graze,n/a
+6/16/2026,gp1a,3,graze,n/a
+6/11/2026,Briar,n/a,graze,n/a
+6/9/2026,GP5A,26,graze,n/a
+6/4/2026,GP6A,33,graze,n/a
+6/4/2026,gp6a,32,graze,n/a
+6/2/2026,GP Woods,n/a,graze,n/a
+5/30/2026,GP7A,41,graze,n/a
+5/30/2026,gp7a,40,graze,n/a
+5/27/2026,GP8A,49,graze,n/a
+5/25/2026,GP8C,46,graze,n/a
+5/23/2026,gp7b,42,graze,n/a
+5/23/2026,GP7B,44,graze,n/a
+5/20/2026,GP6C,39,graze,n/a
+5/18/2026,GP5B,31,graze,n/a
+5/14/2026,GP3S,20,graze,n/a
+5/14/2026,gp3s,21,graze,n/a
+5/8/2026,GP2B,10,graze,n/a
+5/8/2026,gp2b,11,graze,n/a
+5/8/2026,gp2b,12,graze,n/a
+5/6/2026,gp2a,8,graze,n/a
+5/6/2026,GP2A,7,graze,n/a
+5/4/2026,gp5a,28,graze,n/a
+5/4/2026,GP5A,27,graze,n/a
+5/1/2026,gp6a,35,graze,n/a
+5/1/2026,GP6A,34,graze,n/a
+4/29/2026,gp7a,40,graze,n/a
+4/29/2026,GP7A,41,graze,n/a
+4/27/2026,GP7B,43,graze,n/a
+4/26/2026,gp6c,37,graze,n/a
+4/26/2026,GP6C,38,graze,n/a
+4/25/2026,GP5B,30,graze,n/a
+4/24/2026,GP4C,24,graze,n/a
+4/23/2026,GP4B,23,graze,n/a
+4/22/2026,GP4A,22,graze,n/a
+4/19/2026,gp3a,17,graze,n/a
+4/19/2026,GP3A,14,graze,n/a
+4/14/2026,gp3b,18,graze,n/a
+4/14/2026,GP3B,15,graze,n/a
+4/13/2026,GP1A,2,graze,n/a
